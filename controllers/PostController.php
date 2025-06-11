@@ -1,6 +1,7 @@
 <?php
 require_once 'models/Post.php';
 
+//ok
 class PostController {
     private $db;
     private $post;
